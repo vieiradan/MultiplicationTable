@@ -1,3 +1,3 @@
 # MultiplicationTable
 
-Multiplication table for given number
+Multiplication table for a given number
